@@ -1,0 +1,1 @@
+**MAPS4DAPS,** a google maps website that shows your user ratings from 1 to 5 starts of how disability friendly a certain location is and then calculates how much extra time it will take to get in there with your disability
